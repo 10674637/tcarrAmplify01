@@ -10,6 +10,11 @@
       "StackName": "amplify-tcaramplify01-tcarrenv-142217",
       "StackId": "arn:aws:cloudformation:us-east-1:783533502506:stack/amplify-tcaramplify01-tcarrenv-142217/e95a5ff0-61ae-11eb-86b6-0e4f7732191f",
       "AmplifyAppId": "d1vn1nqcun6hoy"
+    },
+    "categories": {
+      "auth": {
+        "tcaramplify011eef9f57": {}
+      }
     }
   }
 }
